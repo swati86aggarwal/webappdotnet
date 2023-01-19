@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'swagdotnetnew'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_53A2B51936E140C399357D253265E3D8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5F298B5CC8254F469EC6FFF11346182E }}
           package: .
